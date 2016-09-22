@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace KancolleMacro_with_fiddler.Properties
+namespace KancolleMacro.Properties
 {
 
 
